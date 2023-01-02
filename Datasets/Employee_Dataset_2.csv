@@ -1,0 +1,26 @@
+Employee Name,Age,Department,Education,Gender,Marital Status,Monthly Income
+Jitesh,41,Training,Masters,Male,Single,5993
+Sanjit,49,Sales,Masters,Male,Married,5130
+John,37,no values,Doctorate,Male,Single,2090
+Sandra,33,no values,Undergraduate,Female,Married,2909
+Madhu,27,no values,Masters,Male,Married,3468
+Robert,32,no values,Masters,Male,Single,3068
+Megan,59,no values,Masters,Female,Married,2670
+Matt,30,no values,Doctorate,Male,Divorced,2693
+Will,38,R&D,Doctorate,Male,Single,9526
+George,36,Software Development,Masters,,Married,5237
+Adam,35,Software Development,Masters,Male,Married,2426
+Adam,35,Software Development,Masters,Male,Married,2426
+Adam,35,Software Development,Masters,Male,Married,2426
+Emma,,Software Development,Undergraduate,Female,Single,4193
+Vin,31,Software Development,Undergraduate,Male,not found,2911
+Richard,34,Software Development,Undergraduate,Male,Divorced,2661
+Clint,28,Software Development,Undergraduate,Male,Single,2028
+Kate,29,Software Development,Undergraduate,Female,not found,9980
+Morgan,32,Software Development,Undergraduate,Male,Divorced,3298
+Mel,22,Software Development,Masters,Male,Divorced,2935
+Nicole,53,Sales,Masters,Female,Married,15427
+Angelina,38,,Doctorate,Female,Single,3944
+Katherine,24,Development,Masters,Female,Divorced,4011
+Sean,36,Sales,Masters,Male,Single,3407
+Stella,34,R&D,Doctorate,Female,Single,11994
